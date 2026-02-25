@@ -12,7 +12,7 @@ public class SimpleCalculator {
 
         int sum = a + b;
 
-        System.out.println("Sum = " + sum);
+        System.out.println("Sum of = " + sum);
 
         sc.close();
     }
