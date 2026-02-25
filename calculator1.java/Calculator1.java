@@ -8,11 +8,11 @@ public class SimpleCalculator {
         int abb = sc.nextInt();
 
         System.out.print("Enter second number: ");
-        int b = sc.nextInt();
+        int baa = sc.nextInt();
 
         int sum = a + b;
 
-        System.out.println("Sum = " + sum);
+        System.out.println("Sum of the = " + sum);
 
         sc.close();
     }
