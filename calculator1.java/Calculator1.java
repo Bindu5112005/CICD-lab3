@@ -8,7 +8,7 @@ public class SimpleCalculator {
         int ab = sc.nextInt();
 
         System.out.print("Enter second number: ");
-        int ba = sc.nextInt();
+        int baa = sc.nextInt();
 
         int sum = a + b;
 
