@@ -5,7 +5,7 @@ public class SimpleCalculator {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter first number: ");
-        int ab = sc.nextInt();
+        int abb = sc.nextInt();
 
         System.out.print("Enter second number: ");
         int b = sc.nextInt();
